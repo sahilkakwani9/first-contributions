@@ -559,6 +559,7 @@
 - [Elliot Blanchard](https://github.com/elliotblanchard)
 - murmal
 - [Radi Rusadi](https://github.com/radirs)
+- [Disha Mariyola Dsouza](https://github.com/hayat900)
 - [Evan Finnigan](https://github.com/Evan-Finnigan)
 - [Marco Greco](https://github.com/MarcoAGreco)
 - [Michal Fidler](https://github.com/dottoreFell)
