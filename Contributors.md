@@ -28,6 +28,7 @@
 - [Tiago Costa](https://github.com/macacolouco46)
 - [Stacy Meichle](https://github.com/smeichle)
 - [prince1508](http://github.com/prince1508)
+- [Thasni N](http://github.com/THASNI02)
 - [HRK_Codes](https://github.com/HRK31)
 - [Dhanam](https://github.com/Dhanam77)
 - [Daemon1024](https://github.com/daemon1024)
